@@ -1,0 +1,14 @@
+debug
+[class^="container"] {
+    border: 1px solid black;
+    min-height: auto;
+}
+
+[class^="row"] {
+    border: 1px solid green;
+   
+}
+[class^="col"] {
+    border: 1px solid  lightcoral;
+    min-height: auto;
+}
